@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operators</title>
+</head>
+<body>
+    <h1>Operators</h1>
+
+    <form id="additionForm" onsubmit="add(event)">
+        <input type="number" placeholder="enter number to add" name="a" id="a">
+        <input type="number" placeholder="enter number to add" name="b" id="b">
+        <input type="submit" value="add">
+        <p id="additionResult"></p>
+    </form>
+    <form id="moduloForm" onsubmit="modulo(event)">
+        <input type="number" placeholder="enter number to divide" name="c" id="c">
+        <input type="number" placeholder="enter number to divide by" name="d" id="d">
+        <input type="submit" value="get remainder">
+        <p id="remainderResult"></p>
+    </form>
+    <script src="operators.js" async defer></script>
+</body>
+</html>
