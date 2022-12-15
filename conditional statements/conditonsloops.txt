@@ -1,0 +1,19 @@
+// syntax
+if (condition) false {
+    // do something
+} else if (condition) false {
+    // execute else-if block of code
+} else {
+    // execute else block if all above conditions return false
+}
+
+
+Write a program to take input from user, if number is even print "even number" else print "odd number", else print "NaN". Add comment where you can avoid NaN condition and how. Hint: operators.
+
+// syntax
+for (initialization; condition; increment) {
+    // loop execute this code
+}
+
+Write a for loop to print even numbers from 1 to 50
+
