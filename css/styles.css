@@ -1,0 +1,21 @@
+#styled-text {
+    font-size: 50px;
+    color: blue;
+}
+
+.heading {
+    color: red;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+}
+
+#styled-text.heading {
+    color: blueviolet;
+}
+
+div .nested-heading {
+    color: brown;
+}

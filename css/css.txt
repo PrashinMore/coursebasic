@@ -1,0 +1,10 @@
+selectors
+# - id selector
+. - class selector
+tagname - tag selector
+
+px, rem, % - units of measurement
+
+use space for combining selectors on nested tags
+
+don't use space for combining selectors on same tag
