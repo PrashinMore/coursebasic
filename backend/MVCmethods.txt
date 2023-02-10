@@ -1,0 +1,15 @@
+MVC 
+M odel - Database
+V iew - EJS
+C ontroller - Express
+
+
+HTTP methods
+POST - create account
+GET - display account data
+PUT/PATCH - update password
+DELETE - delete account
+
+
+
+url/route?paramName=value&param2=value2

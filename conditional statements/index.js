@@ -33,3 +33,11 @@ for (initialization; condition; increment) {
     // loop execute this code
 }
 // code
+
+
+var a = addTwoNumbers(1, 2)
+console.log(a);
+
+function addTwoNumbers(1, 2) {
+    return 3;
+}

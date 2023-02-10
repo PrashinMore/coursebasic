@@ -1,0 +1,37 @@
+facebook db 
+   - users table schema - id: unique
+                          name: "string"
+                          email: "string"
+                          mobile: number
+                          password: string
+                          
+
+
+ Steps to use db - 
+1. connect to db
+2. CRUD on table        
+
+
+id: 1, Prashin, prashin@mail.com, 9874563210, Password
+
+Promise
+.then on success
+.catch on error 
+
+
+
+
+encryption:
+password -> algorithm = d536w4efuygbr
+
+decryption:
+d536w4efuygbr -> reverse algorithm = password 
+
+hashing:
+Mybirthdate -> hash = iyr78d@sdciup
+
+password -> MD5 algo + 14354886ijthdgxfwf4te65uj8mdek8:d2drt5y = d536w4efuygbr
+
+
+
+

@@ -1,0 +1,14 @@
+What is web development?
+Frontend and backend
+FE - HTML, CSS, JS
+BE - node js
+
+
+HTML
+
+tags - ex. h1
+attributes - ex. style
+
+
+
+

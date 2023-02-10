@@ -1,0 +1,42 @@
+.dropbtn {
+  border: 1px solid black;
+  border-radius: 40px;
+}
+
+.dropdown-content {
+  display: none;
+  background-color: #f1f1f1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 5px 5px;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.logo{
+ width: 50px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+.navbar{
+  background-color: #abf7b3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.searchbar{
+  height: 20px;
+}
+.left{
+  display: flex;
+  align-items: center;
+  
+}
+.right{
+  display: flex;
+  padding-right: 10px;
+}

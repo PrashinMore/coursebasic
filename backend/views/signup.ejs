@@ -9,9 +9,12 @@
 <body>
     <h1>Create account</h1>
 
-    <form>
-        <input type="text" name="Name" id="username" placeholder="username">
-        <input type="password" name="password" id="password" placeholder="password">
+    <form action="/user" method="post">
+        <input type="email" name="email" id="email" placeholder="Email" style="margin: 0.5rem;"><br>
+        <input type="tel" name="mobile" id="mobile" placeholder="Mobile" style="margin: 0.5rem;"><br>
+        <input type="text" name="name" id="name" placeholder="name" style="margin: 0.5rem;"><br>
+        <input type="password" name="password" id="password" placeholder="password" style="margin: 0.5rem;"><br>
+        <input type="submit" style="margin: 0.5rem;">
     </form>
 </body>
 </html>
